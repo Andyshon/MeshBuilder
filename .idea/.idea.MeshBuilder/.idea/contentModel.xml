@@ -10,12 +10,21 @@
           <e p="Builder" t="Include">
             <e p="Cube.cs" t="Include" />
             <e p="CubeBuilder.cs" t="Include" />
+            <e p="ICoordinates.cs" t="Include" />
             <e p="IMeshColor.cs" t="Include" />
             <e p="IMeshDimension.cs" t="Include" />
             <e p="IMeshName.cs" t="Include" />
           </e>
+          <e p="CreatePlane.cs" t="Include" />
           <e p="CubeManager.cs" t="Include" />
-          <e p="MeshCreator.cs" t="Include" />
+          <e p="CubesBasket.cs" t="Include" />
+          <e p="Handlers" t="Include">
+            <e p="CubeHandler.cs" t="Include" />
+            <e p="PlaneHandler.cs" t="Include" />
+          </e>
+          <e p="Menu" t="Include">
+            <e p="CubeDialogMenu.cs" t="Include" />
+          </e>
         </e>
         <e p="SimpleMeshCreator.cs" t="Include" />
       </e>
